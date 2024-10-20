@@ -1,4 +1,4 @@
-package Operators_expressions_stetements;
+package main.java.org.example.hwfour;
 
 import java.util.Scanner;
 
